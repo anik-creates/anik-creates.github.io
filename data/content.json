@@ -1,0 +1,1197 @@
+{
+  "version": 1,
+  "settings": {
+    "prefix": "",
+    "name": "Anik Sarker",
+    "brand": "Anik Sarker",
+    "initials": "",
+    "greeting": "Hello, I'm",
+    "headline": "Electrical & Electronic Engineer",
+    "roles": [
+      "Electrical & Electronic Engineer",
+      "Embedded systems & IoT",
+      "PLC & industrial automation",
+      "Power electronics",
+      "IEEE volunteer ",
+      "Teaching Assistant"
+    ],
+    "tagline": "Final-year EEE student at Daffodil International University. I build hardware that switches, senses and reports back: protection devices, inverters, PLC rigs and the dashboards that watch them. ",
+    "availability": "Open to internships, jobs & research roles",
+    "showAvailability": true,
+    "email": "inboxtoanik@gmail.com",
+    "phone": "+8801793064236",
+    "whatsapp": "8801793064236",
+    "location": "Jamgora, Ashulia, Savar, Dhaka",
+    "photo": "assets/img/anik-cutout.webp",
+    "aboutPhoto": "assets/img/anik-cutout.webp",
+    "contactPhoto": "assets/img/anik-cutout.webp",
+    "cv": "assets/files/Anik_Sarker_CV.pdf",
+    "footer": "References available on request.",
+    "theme": {
+      "default": "dark",
+      "accent1": "#5a84d8",
+      "accent2": "#94a2db",
+      "accent3": "#3b8ad8",
+      "displayFont": "Geist",
+      "bodyFont": "Geist",
+      "preloader": true,
+      "circuit": true,
+      "cursorGlow": true,
+      "custom": {
+        "enabled": false,
+        "light": {
+          "bg": "#fafafa",
+          "surface": "#ffffff",
+          "text": "#09090b",
+          "muted": "#71717a",
+          "accent": "#d9480f"
+        },
+        "dark": {
+          "bg": "#08080a",
+          "surface": "#111114",
+          "text": "#fafafa",
+          "muted": "#8b8b95",
+          "accent": "#ff6a1f"
+        }
+      }
+    },
+    "seo": {
+      "title": "Anik Sarker | Electrical & Electronic Engineer",
+      "description": "Portfolio of Anik Sarker: Electrical & Electronic Engineer working on embedded systems, industrial automation, IoT and VLSI. IEEE member, Daffodil International University.",
+      "siteUrl": "https://anik-creates.github.io/",
+      "ogImage": "assets/img/og-image.jpg"
+    },
+    "form": {
+      "provider": "mailto",
+      "key": ""
+    },
+    "timezone": "Asia/Dhaka",
+    "clockCity": "Dhaka"
+  },
+  "pages": [
+    {
+      "id": "home",
+      "label": "Home",
+      "icon": "home",
+      "visible": true,
+      "sections": [
+        {
+          "id": "hero-1",
+          "type": "hero",
+          "visible": true
+        },
+        {
+          "id": "marquee-1",
+          "type": "marquee",
+          "visible": true
+        },
+        {
+          "id": "focus-1",
+          "type": "focus",
+          "visible": true
+        },
+        {
+          "id": "featuredProjects-1",
+          "type": "featuredProjects",
+          "visible": true
+        },
+        {
+          "id": "latestResearch-1",
+          "type": "latestResearch",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "icon": "user",
+      "visible": true,
+      "sections": [
+        {
+          "id": "pageHero-1",
+          "type": "pageHero",
+          "visible": true,
+          "headingKey": "about"
+        },
+        {
+          "id": "aboutIntro-1",
+          "type": "aboutIntro",
+          "visible": true
+        },
+        {
+          "id": "skills-1",
+          "type": "skills",
+          "visible": true
+        },
+        {
+          "id": "education-1",
+          "type": "education",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "icon": "briefcase",
+      "visible": true,
+      "sections": [
+        {
+          "id": "pageHero-1",
+          "type": "pageHero",
+          "visible": true,
+          "headingKey": "experience"
+        },
+        {
+          "id": "experience-1",
+          "type": "experience",
+          "visible": true
+        },
+        {
+          "id": "certifications-1",
+          "type": "certifications",
+          "visible": true
+        },
+        {
+          "id": "talks-1",
+          "type": "talks",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "icon": "box",
+      "visible": true,
+      "sections": [
+        {
+          "id": "pageHero-1",
+          "type": "pageHero",
+          "visible": true,
+          "headingKey": "projects"
+        },
+        {
+          "id": "projects-1",
+          "type": "projects",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "icon": "book",
+      "visible": true,
+      "sections": [
+        {
+          "id": "pageHero-1",
+          "type": "pageHero",
+          "visible": true,
+          "headingKey": "research"
+        },
+        {
+          "id": "publications-1",
+          "type": "publications",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "achievements",
+      "label": "Achievements",
+      "icon": "trophy",
+      "visible": true,
+      "sections": [
+        {
+          "id": "pageHero-1",
+          "type": "pageHero",
+          "visible": true,
+          "headingKey": "awards"
+        },
+        {
+          "id": "awards-1",
+          "type": "awards",
+          "visible": true
+        },
+        {
+          "id": "leadership-1",
+          "type": "leadership",
+          "visible": true
+        },
+        {
+          "id": "cta-1",
+          "type": "cta",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "icon": "mail",
+      "visible": true,
+      "sections": [
+        {
+          "id": "contactHero-1",
+          "type": "contactHero",
+          "visible": true
+        },
+        {
+          "id": "contactForm-1",
+          "type": "contactForm",
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "headings": {
+    "homeFocus": {
+      "eyebrow": "What I do",
+      "title": "Hardware that",
+      "highlight": "actually works",
+      "lead": "From the first simulation to a board on the bench."
+    },
+    "homeProjects": {
+      "eyebrow": "Projects",
+      "title": "Selected",
+      "highlight": "builds",
+      "lead": ""
+    },
+    "homeResearch": {
+      "eyebrow": "Research",
+      "title": "Recent",
+      "highlight": "papers",
+      "lead": ""
+    },
+    "homeCta": {
+      "eyebrow": "Let's talk",
+      "title": "Have a project in mind?",
+      "highlight": "Let's build it.",
+      "lead": "Internships, research, workshops or IEEE events. I usually reply within two days."
+    },
+    "about": {
+      "eyebrow": "About",
+      "title": "Hi, I build",
+      "highlight": "circuits",
+      "lead": "Student, builder, teaching assistant and IEEE volunteer."
+    },
+    "skills": {
+      "eyebrow": "Skills",
+      "title": "Tools I",
+      "highlight": "use",
+      "lead": "Hover a card for the full tool list (tap on mobile)."
+    },
+    "education": {
+      "eyebrow": "Education",
+      "title": "Where I",
+      "highlight": "studied",
+      "lead": ""
+    },
+    "experience": {
+      "eyebrow": "Experience",
+      "title": "Work &",
+      "highlight": "teaching",
+      "lead": "Lab sessions, department work, certificates and the workshops I run."
+    },
+    "certifications": {
+      "eyebrow": "Certificates",
+      "title": "Training I",
+      "highlight": "completed",
+      "lead": ""
+    },
+    "talks": {
+      "eyebrow": "Workshops",
+      "title": "Sessions I",
+      "highlight": "led",
+      "lead": ""
+    },
+    "projects": {
+      "eyebrow": "Projects",
+      "title": "Built, tested,",
+      "highlight": "rebuilt",
+      "lead": "Filter by area. Open a card for details and photos."
+    },
+    "research": {
+      "eyebrow": "Research",
+      "title": "Papers &",
+      "highlight": "publications",
+      "lead": "Four papers presented at IEEE conferences in 2025: automation, renewable energy and AI in education."
+    },
+    "awards": {
+      "eyebrow": "Achievements",
+      "title": "Awards &",
+      "highlight": "roles",
+      "lead": "Competitions, recognition and the IEEE teams I help run."
+    },
+    "leadership": {
+      "eyebrow": "Leadership",
+      "title": "Teams I",
+      "highlight": "help run",
+      "lead": ""
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Get in",
+      "highlight": "touch",
+      "lead": "Internships, research, workshops or IEEE events. Email is the fastest way to reach me."
+    },
+    "experienceList": {
+      "eyebrow": "",
+      "title": "",
+      "highlight": "",
+      "lead": ""
+    },
+    "leadershipCol": {
+      "eyebrow": "",
+      "title": "",
+      "highlight": "",
+      "lead": ""
+    },
+    "ambassadorCol": {
+      "eyebrow": "",
+      "title": "",
+      "highlight": "",
+      "lead": ""
+    }
+  },
+  "stats": [
+    {
+      "icon": "book",
+      "value": 4,
+      "suffix": "",
+      "label": "IEEE publications"
+    },
+    {
+      "icon": "users",
+      "value": 100,
+      "suffix": "+",
+      "label": "students mentored"
+    },
+    {
+      "icon": "trophy",
+      "value": 7,
+      "suffix": "",
+      "label": "awards & honours"
+    },
+    {
+      "icon": "box",
+      "value": 5,
+      "suffix": "+",
+      "label": "hardware & web builds"
+    }
+  ],
+  "heroBadges": [],
+  "heroChips": [
+    {
+      "icon": "code",
+      "label": ""
+    },
+    {
+      "icon": "radio",
+      "label": ""
+    },
+    {
+      "icon": "zap",
+      "label": ""
+    },
+    {
+      "icon": "factory",
+      "label": ""
+    }
+  ],
+  "about": {
+    "paragraphs": [
+      "I study Electrical & Electronic Engineering at Daffodil International University, and most of what I know I learned at the bench: simulating a circuit, laying out the board, writing the firmware, then finding out what I got wrong. My favourite build so far is ProtectA, an ESP32-S3 box that trips on over-voltage, over-current and earth leakage, then recloses on its own.",
+      "Outside the lab I spend a lot of time with IEEE. I chaired the Power & Energy Society chapter at DIU, I'm now Vice-Chair (Technical) of the student branch, and as a Teaching Assistant I help 100+ students through circuits, power electronics and digital electronics labs."
+    ],
+    "facts": [
+      {
+        "icon": "pin",
+        "text": "Ashulia, Savar, Dhaka"
+      },
+      {
+        "icon": "cap",
+        "text": "B.Sc. EEE · CGPA 3.88"
+      },
+      {
+        "icon": "ieee",
+        "text": "Member IEEE, IEB"
+      }
+    ]
+  },
+  "focus": [
+    {
+      "icon": "cpu",
+      "title": "Embedded & IoT",
+      "text": "ESP32, STM32, Arduino with LoRa, BLE, MQTT and live web dashboards.",
+      "proofs": []
+    },
+    {
+      "icon": "factory",
+      "title": "Industrial Automation",
+      "text": "Siemens TIA Portal PLC & HMI, VFD control, Mechatronics A+ certified.",
+      "proofs": []
+    },
+    {
+      "icon": "layers",
+      "title": "VLSI & PCB",
+      "text": "Cadence Virtuoso layout with DRC/LVS/PEX, and KiCad, Altium & EasyEDA boards.",
+      "proofs": []
+    },
+    {
+      "icon": "mic",
+      "title": "Mentorship",
+      "text": "Workshop instructor, speaker, and a TA running hands-on labs.",
+      "proofs": []
+    },
+    {
+      "icon": "school",
+      "title": "Teaching Assistant",
+      "text": "Working as a Teaching assistant at the Department of Electrical and Electronic Engineering at Daffodil International University. Helping faculty with Course material, documentation, and evaluation.",
+      "proofs": []
+    }
+  ],
+  "skills": [
+    {
+      "icon": "cpu",
+      "title": "Hardware & Circuit Design",
+      "subtitle": "design · test · validate",
+      "text": "Circuit development, PCB design and fabrication, component selection, prototyping and soldering.",
+      "tools": [
+        "KiCad",
+        "Altium",
+        "EasyEDA",
+        "Gerber",
+        "Chemical etching",
+        "Proteus",
+        "OrCAD PSpice",
+        "LTspice",
+        "TinkerCAD",
+        "Logisim"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "wifi",
+      "title": "Embedded Systems & IoT",
+      "subtitle": "firmware · protocols",
+      "text": "Microcontroller firmware, wireless links and live dashboards for data acquisition and monitoring.",
+      "tools": [
+        "ESP32",
+        "STM32",
+        "Arduino",
+        "C/C++",
+        "LoRa",
+        "Wi-Fi",
+        "BLE",
+        "MQTT",
+        "HTTP/REST",
+        "mDNS"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "factory",
+      "title": "Industrial Automation",
+      "subtitle": "PLC · HMI · control",
+      "text": "PLC and HMI programming, control logic, VFD integration and hardware troubleshooting.",
+      "tools": [
+        "Siemens TIA Portal",
+        "PLC",
+        "HMI",
+        "VFD",
+        "Ladder logic",
+        "Mechatronics"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "layers",
+      "title": "VLSI & Microelectronics",
+      "subtitle": "schematic → layout",
+      "text": "Schematic capture, custom symbols, analog/digital layout and ADE L (DC, AC, transient) analysis.",
+      "tools": [
+        "Cadence Virtuoso",
+        "ADE L",
+        "DRC",
+        "LVS",
+        "PEX",
+        "RCX"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "activity",
+      "title": "Simulation & Analytics",
+      "subtitle": "model · simulate",
+      "text": "Power system and power electronics simulation, numerical modeling, and Python-based system simulation.",
+      "tools": [
+        "MATLAB",
+        "Simulink",
+        "Python",
+        "PSAF",
+        "Prompt engineering"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "box",
+      "title": "3D CAD & Fabrication",
+      "subtitle": "enclosures · assemblies",
+      "text": "Parametric 3D modeling, custom enclosure design, assembly and component design.",
+      "tools": [
+        "Fusion 360",
+        "Parametric CAD",
+        "3D printing",
+        "Assemblies"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "code",
+      "title": "Web Development & Cloud",
+      "subtitle": "full-stack · realtime",
+      "text": "Full-stack web apps with realtime databases and auth, plus HTML email campaigns.",
+      "tools": [
+        "HTML/CSS/JS",
+        "Firebase",
+        "Vercel",
+        "Auth",
+        "HTML email"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "pen",
+      "title": "Software & Media",
+      "subtitle": "docs · design",
+      "text": "Technical documentation, graphics design and workspace management.",
+      "tools": [
+        "Canva",
+        "MS Office",
+        "Google Workspace",
+        "Linux",
+        "Windows"
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "users",
+      "title": "Leadership & Mentorship",
+      "subtitle": "teach · lead · speak",
+      "text": "Workshop delivery, event coordination, public speaking, team leadership and academic mentorship.",
+      "tools": [
+        "Workshops",
+        "Public speaking",
+        "Event management",
+        "Team leadership",
+        "IEEE vTools"
+      ],
+      "proofs": []
+    }
+  ],
+  "experience": [
+    {
+      "icon": "users",
+      "role": "Teaching Assistant",
+      "org": "Daffodil International University",
+      "location": "Daffodil Smart City, Savar",
+      "period": "May 2025 – Present",
+      "points": [
+        "Guide 100+ students through lab experiments in Circuit Design, Power Electronics and Digital Electronics.",
+        "Assist faculty with course delivery, assignment grading and lab equipment management."
+      ],
+      "proofs": []
+    },
+    {
+      "icon": "file",
+      "role": "Student Associate",
+      "org": "Daffodil International University",
+      "location": "Daffodil Smart City, Savar",
+      "period": "Feb 2025 – May 2025",
+      "points": [
+        "Handled official departmental documentation and kept records organised for administrative operations.",
+        "Coordinated student groups and logistics for academic activities, events and department initiatives.",
+        "Supported faculty with routine admin tasks, document preparation and announcements."
+      ],
+      "proofs": []
+    }
+  ],
+  "education": [
+    {
+      "icon": "cap",
+      "degree": "B.Sc. in Electrical & Electronic Engineering",
+      "school": "Daffodil International University",
+      "location": "Savar, Dhaka",
+      "period": "Jan 2023 – Present",
+      "score": "CGPA 3.88 / 4.00",
+      "percent": 97,
+      "proofs": []
+    },
+    {
+      "icon": "book",
+      "degree": "Higher Secondary Certificate (Science)",
+      "school": "BEPZA Public College",
+      "location": "DEPZ, Savar, Dhaka",
+      "period": "2021",
+      "score": "GPA 5.00 / 5.00",
+      "percent": 100,
+      "proofs": []
+    },
+    {
+      "icon": "book",
+      "degree": "Secondary School Certificate (Science)",
+      "school": "Kurni Jalal Uddin High School",
+      "location": "Mirzapur, Tangail",
+      "period": "2019",
+      "score": "GPA 4.33 / 5.00",
+      "percent": 87,
+      "proofs": []
+    }
+  ],
+  "certifications": [
+    {
+      "icon": "factory",
+      "title": "Training Program on Mechatronics & PLC",
+      "issuer": "Tools and Technology Institute (TTI), BITAC · Ministry of Industries, Govt. of Bangladesh",
+      "date": "",
+      "grade": "Grade A+",
+      "link": "",
+      "proofs": []
+    },
+    {
+      "icon": "bulb",
+      "title": "AI+ Prompt Engineer Level 1™",
+      "issuer": "AI Certs & Microsoft Learn",
+      "date": "2025",
+      "grade": "",
+      "link": "",
+      "proofs": []
+    },
+    {
+      "icon": "cpu",
+      "title": "Workshop on PLC and Industrial Automation",
+      "issuer": "Ulterior Engineering",
+      "date": "2024",
+      "grade": "",
+      "link": "",
+      "proofs": []
+    },
+    {
+      "icon": "file",
+      "title": "National Skill Standard Basic Course: MS Office Applications",
+      "issuer": "Bangladesh Technical Education Board (BTEB)",
+      "date": "2019",
+      "grade": "Grade A+",
+      "link": "",
+      "proofs": []
+    }
+  ],
+  "projects": [
+    {
+      "icon": "shield",
+      "title": "ProtectA",
+      "kicker": "Smart IoT electrical protection device",
+      "year": "2025",
+      "categories": [
+        "IoT",
+        "Power"
+      ],
+      "featured": true,
+      "text": "ESP32-S3 protection system with an Automatic Circuit Recloser (ACR), multi-fault tripping on voltage, current and earth leakage, and a locally hosted real-time web dashboard.",
+      "tags": [
+        "ESP32-S3",
+        "ACR",
+        "Fault detection",
+        "Web dashboard"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    },
+    {
+      "icon": "calendar",
+      "title": "DIU EEE Routine HUB",
+      "kicker": "Centralised scheduling platform",
+      "year": "2026",
+      "categories": [
+        "Web"
+      ],
+      "featured": true,
+      "text": "Web platform that tracks batch and faculty schedules, room availability and class notices, with an administrative portal.",
+      "tags": [
+        "Firebase",
+        "Vercel",
+        "Auth",
+        "Admin portal"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    },
+    {
+      "icon": "wave",
+      "title": "5-Level Inverter",
+      "kicker": "Reduced PWM control signals",
+      "year": "2025",
+      "categories": [
+        "Power"
+      ],
+      "featured": true,
+      "text": "Hardware prototype of a single-phase 5-level inverter running from a single DC source with an optimised, reduced PWM control scheme.",
+      "tags": [
+        "Power electronics",
+        "PWM",
+        "Multilevel",
+        "Prototype"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    },
+    {
+      "icon": "rotate",
+      "title": "Transformer Winding Machine",
+      "kicker": "0–3150 kVA · PLC + VFD + HMI",
+      "year": "2025",
+      "categories": [
+        "Power",
+        "Automation"
+      ],
+      "featured": false,
+      "text": "Automated distribution-transformer winding machine controlled by PLC, VFD and HMI. Published at IEEE RAAICON 2025.",
+      "tags": [
+        "PLC",
+        "VFD",
+        "HMI",
+        "IEEE paper"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    },
+    {
+      "icon": "bot",
+      "title": "Project KITI",
+      "kicker": "Autonomous food delivery robot",
+      "year": "2024",
+      "categories": [
+        "Robotics",
+        "IoT",
+        "Web"
+      ],
+      "featured": false,
+      "text": "GPS-guided autonomous delivery robot with obstacle-avoidance sensors and a custom web ordering interface.",
+      "tags": [
+        "GPS",
+        "Autonomy",
+        "Sensors",
+        "Web ordering"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    },
+    {
+      "icon": "game",
+      "title": "Project ORCA",
+      "kicker": "4WD soccer rover · MINDSPARKS-23",
+      "year": "2023",
+      "categories": [
+        "Robotics"
+      ],
+      "featured": false,
+      "text": "Radio-controlled 4WD rover with a high-impact chassis, high-torque motor drivers and wireless control, built for competition.",
+      "tags": [
+        "4WD",
+        "Motor drivers",
+        "RF control"
+      ],
+      "link": "",
+      "cover": "",
+      "proofs": []
+    }
+  ],
+  "publications": [
+    {
+      "icon": "rotate",
+      "title": "Automatic 0 to 3150kVA Distribution Transformer Winding Machine using PLC, VFD, HMI",
+      "venue": "4th IEEE International Conference on Robotics, Automation, Artificial Intelligence and IoT (RAAICON 2025)",
+      "authors": "Md. Ashiqueuzzaman Rupom, Anik Sarker, Rakesh Karmaker, Srimanti Roychoudhury",
+      "year": "2025",
+      "tags": [
+        "Scopus",
+        "Automation"
+      ],
+      "link": "https://www.scopus.com/pages/publications/105040939063",
+      "proofs": []
+    },
+    {
+      "icon": "drop",
+      "title": "Energy-Efficient Automated Irrigation: A Solar-Powered Solution for Modern Agriculture",
+      "venue": "8th IEEE International Conference on Circuit, Power and Computing Technologies (ICCPCT 2025)",
+      "authors": "Anik Sarker, Srimanti Roychoudhury, Ubaidur Rahman, et al.",
+      "year": "2025",
+      "tags": [
+        "Scopus",
+        "Renewable energy"
+      ],
+      "link": "https://www.scopus.com/pages/publications/105020209851",
+      "proofs": []
+    },
+    {
+      "icon": "bulb",
+      "title": "Revolutionizing Education: The CourseSphere AI Platform for Personalized Learning",
+      "venue": "8th IEEE International Conference on Circuit, Power and Computing Technologies (ICCPCT 2025)",
+      "authors": "",
+      "year": "2025",
+      "tags": [
+        "AI",
+        "EdTech"
+      ],
+      "link": "",
+      "proofs": []
+    },
+    {
+      "icon": "users",
+      "title": "Unlocking Student Potential: How MentorSphere AI Redefines Mentorship",
+      "venue": "IEEE International Conference on Information, Implementation, and Innovation in Technology (I2ITCON 2025)",
+      "authors": "",
+      "year": "2025",
+      "tags": [
+        "AI",
+        "Mentorship"
+      ],
+      "link": "",
+      "proofs": []
+    }
+  ],
+  "awards": [
+    {
+      "icon": "trophy",
+      "title": "Champion, Project Showcasing",
+      "text": "EEE FEST-2025, Dept. of EEE, Daffodil International University.",
+      "year": "2025",
+      "highlight": true,
+      "proofs": []
+    },
+    {
+      "icon": "star",
+      "title": "Best Ambassador Award",
+      "text": "Top performer among 30+ ambassadors at IEEE SPAVe 8.0, IEEE AIUB SB.",
+      "year": "2025",
+      "highlight": true,
+      "proofs": []
+    },
+    {
+      "icon": "trophy",
+      "title": "Champion, vTools Management Quiz",
+      "text": "IEEE Bangladesh Section Vitality Enhancement Summit.",
+      "year": "2025",
+      "highlight": true,
+      "proofs": []
+    },
+    {
+      "icon": "award",
+      "title": "3rd Place, Idea Generation",
+      "text": "IEEE Student Professional Awareness Venture (SPAVe 8.0) at AIUB.",
+      "year": "2025",
+      "highlight": false,
+      "proofs": []
+    },
+    {
+      "icon": "shield",
+      "title": "IEEE Ethics Champion",
+      "text": "Recognised by IEEE Region 10 & EAAC for commitment to ethical engineering.",
+      "year": "2024",
+      "highlight": false,
+      "proofs": []
+    },
+    {
+      "icon": "crown",
+      "title": "Excellence in Leadership",
+      "text": "For dedicated service as Chapter Chair of IEEE PES DIU SBC.",
+      "year": "",
+      "highlight": false,
+      "proofs": []
+    },
+    {
+      "icon": "mic",
+      "title": "Champion, Debate Competition",
+      "text": "\"Safe Roads for Women\", organised by BRAC & Kurni Jalal Uddin High School.",
+      "year": "2019",
+      "highlight": false,
+      "proofs": []
+    }
+  ],
+  "leadership": [
+    {
+      "icon": "user",
+      "title": "Student Advisor",
+      "org": "IEEE PES DIU SBC",
+      "period": "2026-27",
+      "proofs": []
+    },
+    {
+      "icon": "ieee",
+      "title": "Vice-Chair (Technical)",
+      "org": "IEEE DIU Student Branch",
+      "period": "Jan 2026 – Present",
+      "proofs": []
+    },
+    {
+      "icon": "zap",
+      "title": "Chairperson",
+      "org": "IEEE Power & Energy Society (PES) DIU SBC",
+      "period": "Aug 2025 – Jul 2026",
+      "proofs": []
+    },
+    {
+      "icon": "globe",
+      "title": "General Co-Chair",
+      "org": "Intl. Congress on AI & Digital Health Innovations 2026, Dept. of CSE, DIU",
+      "period": "2026",
+      "proofs": []
+    },
+    {
+      "icon": "factory",
+      "title": "Vice-Chair (Technical)",
+      "org": "IEEE Industry Applications Society (IAS) DIU SBC",
+      "period": "2025 – 2026",
+      "proofs": []
+    },
+    {
+      "icon": "calendar",
+      "title": "Event Management Coordinator",
+      "org": "IEEE DIU Student Branch",
+      "period": "2025 – 2026",
+      "proofs": []
+    },
+    {
+      "icon": "code",
+      "title": "Webmaster",
+      "org": "IEEE IAS DIU SBC",
+      "period": "2024 – 2025",
+      "proofs": []
+    },
+    {
+      "icon": "code",
+      "title": "Head of Web Team",
+      "org": "Hult Prize at Daffodil International University",
+      "period": "2025",
+      "proofs": []
+    },
+    {
+      "icon": "bot",
+      "title": "Assistant Training Secretary",
+      "org": "DIU Robotics Club",
+      "period": "2024 – 2025",
+      "proofs": []
+    },
+    {
+      "icon": "box",
+      "title": "Logistic Support Coordinator",
+      "org": "IEEE DIU Student Branch",
+      "period": "2024 – 2025",
+      "proofs": []
+    }
+  ],
+  "ambassador": [
+    {
+      "icon": "star",
+      "title": "Ambassador",
+      "org": "IEEE SPAVe 8.0, American International University-Bangladesh",
+      "period": "2025",
+      "proofs": []
+    },
+    {
+      "icon": "zap",
+      "title": "Brand Ambassador",
+      "org": "IEEE PES Day",
+      "period": "2024 & 2026",
+      "proofs": []
+    },
+    {
+      "icon": "globe",
+      "title": "Publicity Ambassador",
+      "org": "IEEE YESIST12 Grand Finale, UKM Malaysia",
+      "period": "2025",
+      "proofs": []
+    },
+    {
+      "icon": "megaphone",
+      "title": "Conference Ambassador",
+      "org": "IEEE Bangladesh Section Conferences",
+      "period": "2024 & 2025",
+      "proofs": []
+    },
+    {
+      "icon": "cpu",
+      "title": "Event Ambassador",
+      "org": "4th Intl. Congress on Recent Trends in Computer Science (ICRCS)",
+      "period": "2025",
+      "proofs": []
+    },
+    {
+      "icon": "flag",
+      "title": "Event Ambassador",
+      "org": "IEEE PES HAC Congress",
+      "period": "2024",
+      "proofs": []
+    }
+  ],
+  "talks": [
+    {
+      "icon": "cpu",
+      "role": "Instructor & Key Facilitator",
+      "date": "2026",
+      "title": "Hardware Prototyping Series: From Circuit Simulation to PCB Development",
+      "org": "IEEE PES DIU SBC",
+      "text": "Led an intensive 3-day workshop on circuit simulation in Proteus, PCB layout in KiCad, and board fabrication by chemical etching.",
+      "proofs": []
+    },
+    {
+      "icon": "mic",
+      "role": "Featured Speaker",
+      "date": "Nov 2025",
+      "title": "IEEE Operations Masterclass: Tools Every Volunteer Must Know",
+      "org": "IEEE PES DIU SBC",
+      "text": "Interactive session on the operational workflows, admin tools and event-management strategies IEEE volunteers rely on.",
+      "proofs": []
+    },
+    {
+      "icon": "pen",
+      "role": "Instructor & Workshop Facilitator",
+      "date": "",
+      "title": "Workshop on IEEE vTools & Canva Design",
+      "org": "IEEE DIU Student Branch",
+      "text": "Hands-on training on managing IEEE vTools, event reporting and visual branding with Canva.",
+      "proofs": []
+    },
+    {
+      "icon": "zap",
+      "role": "Lead Trainer",
+      "date": "",
+      "title": "Workshop on Circuit Prototyping & Soldering",
+      "org": "DIU Robotics Club",
+      "text": "Trained engineering students in schematic assembly, component selection and precision soldering.",
+      "proofs": []
+    }
+  ],
+  "languages": [
+    {
+      "icon": "lang",
+      "name": "Bangla",
+      "level": "Native",
+      "percent": 100,
+      "proofs": []
+    },
+    {
+      "icon": "globe",
+      "name": "English",
+      "level": "Advanced",
+      "percent": 85,
+      "proofs": []
+    }
+  ],
+  "socials": [
+    {
+      "icon": "linkedin",
+      "label": "LinkedIn",
+      "handle": "in/-anik-sarker-",
+      "url": "https://www.linkedin.com/in/-anik-sarker-/",
+      "hero": true
+    },
+    {
+      "icon": "scholar",
+      "label": "Google Scholar",
+      "handle": "Anik Sarker",
+      "url": "https://scholar.google.com/citations?user=4CC_FmcAAAAJ&hl=en",
+      "hero": true
+    },
+    {
+      "icon": "github",
+      "label": "GitHub",
+      "handle": "anik-creates",
+      "url": "https://github.com/anik-creates",
+      "hero": true
+    },
+    {
+      "icon": "facebook",
+      "label": "Facebook",
+      "handle": "search.anik",
+      "url": "www.facebook.com/search.anik",
+      "hero": true
+    },
+    {
+      "icon": "orcid",
+      "label": "ORCiD",
+      "handle": "Anik Sarker",
+      "url": "https://orcid.org/0009-0009-6566-1559",
+      "hero": true
+    },
+    {
+      "icon": "img:assets/uploads/2026/icon-images-14t6k13.webp",
+      "label": "ResearchGate",
+      "handle": "Anik-Sarker-",
+      "url": "https://www.researchgate.net/profile/Anik-Sarker-",
+      "hero": true
+    }
+  ],
+  "labels": {
+    "downloadCv": "Download CV",
+    "letsTalk": "Contact me",
+    "getInTouch": "Send an email",
+    "moreAbout": "More about me",
+    "allProjects": "See all projects",
+    "allPublications": "All publications",
+    "details": "Details",
+    "visitProject": "Visit project",
+    "photos": "Photos",
+    "filterAll": "All",
+    "verify": "Verify",
+    "scholarText": "Citations and my full publication list.",
+    "viewProfile": "View profile",
+    "formTitle": "Send a message",
+    "formSubtitle": "Goes straight to my inbox.",
+    "formName": "Your name",
+    "formEmail": "Your email",
+    "formSubject": "Subject (optional)",
+    "formMessage": "Message",
+    "formSend": "Send message",
+    "formSent": "Thanks, your message is on its way.",
+    "executiveRoles": "Executive roles",
+    "ambassadorRoles": "Global & regional ambassador",
+    "notFoundTitle": "Nothing on this",
+    "notFoundHighlight": "circuit",
+    "notFoundText": "That page doesn't exist, or it moved.",
+    "backHome": "Back home"
+  }
+}
